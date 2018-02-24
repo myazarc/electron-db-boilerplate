@@ -11,7 +11,7 @@ Included
  - electron-reload: ^1.2.2
  - knex: ^0.14.4
  - mysql2: ^1.5.2
- - yaml: ^0.3.0
+ - node-yaml: ^3.1.1
 
 Installation
 -------------
